@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    color:black;
+    height: 30%;
+    font-size: 100%;
+    background-color: skyblue;
+    width: 100%;
+  }
+.button{
+    margin-left:30%;
+    height: 60%;
+    background-color: lightblue;
+    width: 40%;
+}
